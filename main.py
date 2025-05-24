@@ -19,7 +19,7 @@ for question in questions:
     print(f"1. {question[1]}")
     print(f"2. {question[2]}")
     print(f"3. {question[3]}")
-    print(f"5. {question[1]}")
+    print(f"5. {question[4]}")
     print(f"Current Money : Rs.{money}")
 
     #check whether the answer is corrent or not
